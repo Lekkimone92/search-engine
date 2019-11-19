@@ -21,7 +21,7 @@
       <v-spacer></v-spacer>
 
       <v-btn
-        href="#"
+        href="https://github.com/Lekkimone92/search-engine"
         target="_blank"
         text
       >

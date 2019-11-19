@@ -85,7 +85,7 @@
             >
                 <v-card-title>WEB SEARCH ENGINE</v-card-title>
                 <v-divider></v-divider>
-                <v-card-text>This project is built in vuejs and nodejs server. It based on elasticsearch web Engine</v-card-text>
+                <v-card-text>This project is built in vuejs and nodejs server. It is based on elasticsearch web Engine</v-card-text>
                 <v-card-actions>
                     <v-container>
                         <v-img src="/search_engines.png" sizes="50"></v-img>
